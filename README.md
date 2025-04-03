@@ -44,6 +44,9 @@ The website effectively showcases their services and brand identity in a sleek, 
 ### 🔹 About Page
 ![About](screenshots/9.png)
 
+### 🔹 E-mail confirmation
+![E-mail](screenshots/10.png)
+
 ---
 
 ## 🎯 Features
@@ -74,6 +77,4 @@ The website effectively showcases their services and brand identity in a sleek, 
 The website can be deployed easily using **cent OS** on **Red Hat** based Server,
 
 ---
-
-🔗 **Live Demo:** [Website Link Here](#)  
 💻 **Developed by:** [**SUMIT**]
